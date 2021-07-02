@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/Data.css"],"names":[],"mappings":"AAAA,MACE,4BACF,CAEA,gBACE,eACF","file":"main.59bf031d.chunk.css","sourcesContent":["table{\n  white-space: nowrap !important;\n}\n\n.container.my-5 {\n  overflow-x: auto;\n}"]}
